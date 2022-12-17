@@ -1,0 +1,26 @@
+// (a) dodanie nowego elementu na końcu listy (argument: dane),
+
+// (b) dodanie nowego elementu na początku listy (argument: dane),
+
+// (c) usunięcie ostatniego elementu,
+
+// (d) usunięcie pierwszego elementu,
+
+//(e) zwrócenie danych i-tego elementu listy (argument: indeks i żądanego elementu (numerując od zera); wynik: dane i-tego elementu
+lub niepowodzenie w razie indeksu poza zakresem),2
+
+//(f) ustawienie (podmiana) danych i-tego elementu listy (argumenty: indeks i żądanego elementu (numerując od zera) oraz nowe dane;
+wynik: pusty lub niepowodzenie w razie indeksu poza zakresem),
+
+// (g) wyszukanie elementu (argumenty: dane wzorcowe oraz informacja lub komparator definiujące klucz wyszukiwania — szczegółowe wskazówki
+dalej; wynik: wskaźnik na odnaleziony element listy lub NULL w przypadku niepowodzenia),
+
+// (h) wyszukanie i usunięcie elementu (argumenty: jak wyżej; wynik: flaga logiczna sygnalizująca powodzenie lub niepowodzenie),
+
+// (i) dodanie nowego elementu z wymuszeniem porządku (argumenty: dane i informacja lub kom- parator definiujące klucz porządkowania),
+
+(j) czyszczenie listy tj. usunięcie wszystkich elementów,
+
+(k) zwrócenie napisowej reprezentacji listy — np. funkcja / metoda to string(...) (format wy- niku wg uznania programisty, może zawierać
+np. rozmiar listy, wypis pewnej liczby elementów początkowych / końcowych, opcjonalnie adres listy w pamięci; argumenty: również wg uznania programisty
+— np. liczba elementów do wypisania, wskaźnik na funkcję wypisującą pojedynczy rekord / obiekt danych).
